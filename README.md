@@ -13,3 +13,4 @@ All images in this repository are checked to have a license that allows for free
 | ------------- |:-------------:| 
 | books.png    | Suzy Hazelwood | 
 | ocean.png    | Matt Bango |
+| data.png    | Wil Stewart (original image modified) |
