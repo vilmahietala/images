@@ -1,4 +1,4 @@
-# This repository contains images I use in my projects
+# A Collection of Visual Materials for My Projects
 
 
 ### Image Licensing
